@@ -5,11 +5,16 @@
             "Hexlet\\Code\\": "src/"
         }
     },
+    "description": "",
     "authors": [
         {
             "name": "Vladislav",
             "email": "trololo557@gmail.com"
         }
+    ],
+    "license": "ISC",
+    "bin": [
+        "bin/brain-games"
     ],
     "require": {}
 }
